@@ -1,0 +1,46 @@
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.exe
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.deps.json
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.runtimeconfig.json
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.runtimeconfig.dev.json
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\ref\Rosto.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\Rosto.pdb
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.AssemblyInfoInputs.cache
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.AssemblyInfo.cs
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.CoreCompileInputs.cache
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.CopyComplete
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\ref\Rosto.dll
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.pdb
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.genruntimeconfig.cache
+G:\ITI .NET\C# Lectures\C# FInal Project\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.AssemblyReference.cache
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.exe
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.deps.json
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.runtimeconfig.json
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.runtimeconfig.dev.json
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\ref\Rosto.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\Rosto.pdb
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\System.Data.SqlClient.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.AssemblyReference.cache
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.AssemblyInfoInputs.cache
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.AssemblyInfo.cs
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.CoreCompileInputs.cache
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.csproj.CopyComplete
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\ref\Rosto.dll
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.pdb
+H:\Projects ITI\C# ROSTO\Rosto\Rosto\obj\Debug\net5.0\Rosto.genruntimeconfig.cache
